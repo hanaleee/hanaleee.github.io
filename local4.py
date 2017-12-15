@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 import vlc, os
 import time
 import RPi.GPIO as GPIO
