@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/bus.jpg'
+cover: 'assets/images/프로토2.png'
 navigation: True
 title: 제품요구 명세서
 date: 1863-11-19 10:18:00
