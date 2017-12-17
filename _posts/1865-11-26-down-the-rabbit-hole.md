@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/piano.jpg'
+cover: 'assets/images/프로토1.png'
 navigation: true
 title: 영상 링크
 date: 1865-11-26 10:18:00
