@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/grapes.jpg
+cover: assets/images/stl1.png
 navigation: True
 title: stl파일 이미지
 date: 1948-12-12 10:18:00
