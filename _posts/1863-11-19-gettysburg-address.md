@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
+cover: 'assets/images/bus.jpg'
 navigation: True
 title: 제품요구 명세서
 date: 1863-11-19 10:18:00
@@ -31,8 +31,13 @@ categories: 제품요구 명세서
 - VLC로 음악재생
 - while true문을 사용하여 노래를 계속 재생시킴
 - if절을 활용하여 버튼을 누르면 버튼 이벤트 실행
+
 구현
+
 -프로토 타입1
+![프로토1.png](/assets/images/프로토1.png)
+
 
 -프로토 타입2
+![프로토2.png](/assets/images/프로토2.png)
 
