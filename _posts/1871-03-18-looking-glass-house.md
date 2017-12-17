@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/summit.jpg'
+cover: 'assets/images/라이노1.png'
 navigation: True
 title: 라이노 이미지
 date: 1871-03-18 10:18:00
